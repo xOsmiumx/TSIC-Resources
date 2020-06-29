@@ -1,7 +1,7 @@
 # Welcome to Trident Resources
 _This page is currently under construction. Ich bin das fenster._
 
-# ELITE DANGEROUS RESOURCES & INFO
+# Elite Dangerous Resources & Info
 
 ## Builds & Ship Info:
 
@@ -53,6 +53,6 @@ _A bounty hunting Vulture perfect for outmanoeuvering larger ships._
 - [x] Bounty Hunting
 - [x] Combat
 
-Fit Cost: 21,106,576 CR / Engineered: 28,115,787 CR
+Fit Cost: 21,106,576 CR // Engineered: 28,115,787 CR
 
-Rebuy Cost: 1,055,329 CR / Engineered: 1,405,789 CR
+Rebuy Cost: 1,055,329 CR // Engineered: 1,405,789 CR
