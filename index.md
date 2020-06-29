@@ -3,7 +3,7 @@ _This page is currently under construction. Ich bin das fenster._
 
 # Elite Dangerous Resources & Info
 
-## Builds & Ship Info:
+## Tools & Utilities:
 
 **Inara.CZ**
 - [INARA](https://inara.cz/) the ultimate Elite Dangerous Companion, is a database covering a broad array of game features and information, 
@@ -17,6 +17,11 @@ Players can experiment with builds and keep track of their in-game builds.
 
 **EDDB.io**
 - [EDDB](https://eddb.io/) is a database that displays info about systems, stations, factions, commodities, bodies, and trading routes.
+
+
+**Elite Outfitters**
+- [Elite Outfitters](https://www.reddit.com/r/eliteoutfitters/) is a Reddit community designed to assist CMDRs in getting feedback and help with their ship loadouts.
+
 
 ## Trident's Recommended Builds:
 
