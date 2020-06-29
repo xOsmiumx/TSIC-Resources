@@ -33,6 +33,7 @@ Fit Cost: 1,165,800 CR
 Rebuy Cost: 58,290 CR
 
 
+
 **Drunken Disorderly**
 [Build](https://coriolis.io/outfit/viper?code=A2p5t5F8l8dasdf227270p0p0n0029B4292725.Iw19kA%3D%3D.Aw19kA%3D%3D..EweloBhAWEoUwIYHMA28QgIwV0A%3D)
 
