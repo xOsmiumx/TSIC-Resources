@@ -22,8 +22,9 @@ Players can experiment with builds and keep track of their in-game builds.
 **Elite Outfitters**
 - [Elite Outfitters](https://www.reddit.com/r/eliteoutfitters/) is a Reddit community designed to assist CMDRs in getting feedback and help with their ship loadouts.
 
+# Beginner's Guide to Builds
 
-## Trident's Recommended Builds:
+## Trident's Recommended:
 
 - **Lucky 7's**
 [Build](https://coriolis.io/outfit/eagle?code=A2p0t5F8l3d5s8f11818240nB427272j69.AwRj4jSA.Aw0JmBGaNYg%3D..EweloBjEoUwQwOYBtYgDIFcDGBrAngAQDsA5AM4gCMEtQA%3D%3D)
