@@ -17,3 +17,15 @@ Players can experiment with builds and keep track of their in-game builds.
 
 **EDDB.io**
 - [EDDB](https://eddb.io/) is a database that displays info about systems, stations, factions, commodities, bodies, and trading routes.
+
+## Trident's Recommended Builds:
+
+**Lucky 6's**
+[Build](https://coriolis.io/outfit/eagle?code=A2p0t5F8l3d5s8f11818240nB427272j69.AwRj4jSA.Aw0JmBGaNYg%3D..EweloBjEoUwQwOYBtYgDIFcDGBrAngAQDsA5AM4gCMEtQA%3D%3D)
+- A combat Eagle suited for new pilots.
+
+- [x] Bounty Hunting
+- [x] Combat
+
+Fit Cost: 1,165,800 CR
+Rebuy Cost: 58,290 CR
