@@ -1,5 +1,4 @@
 # Welcome to Trident Resources
----
 _This page is currently under construction. Ich bin das fenster._
 
 # Elite Dangerous Resources & Info
@@ -23,3 +22,4 @@ Players can experiment with builds and keep track of their in-game builds.
 **Elite Outfitters**
 - [Elite Outfitters](https://www.reddit.com/r/eliteoutfitters/) is a Reddit community designed to assist CMDRs in getting feedback and help with their ship loadouts.
 
+---
