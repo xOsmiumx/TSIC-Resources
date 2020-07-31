@@ -44,8 +44,8 @@ Rebuy Cost: 58,290 CR
 
 _Combat Viper for early stages of Bounty Hunting._
 
-- [x] Bounty Hunting
-- [x] Combat
+- [x]  Bounty Hunting
+- [x]  Combat
 
 Fit Cost: 2,023,990 CR
 
@@ -56,8 +56,8 @@ Rebuy Cost: 101,200 CR
 
 _A bounty hunting Vulture perfect for outmanoeuvering larger ships._
 
-- [x] Bounty Hunting
-- [x] Combat
+- [x]  Bounty Hunting
+- [x]  Combat
 
 Fit Cost: 21,106,576 CR // Engineered: 28,115,787 CR
 
