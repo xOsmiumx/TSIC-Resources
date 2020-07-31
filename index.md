@@ -1,4 +1,5 @@
 # Welcome to Trident Resources
+---
 _This page is currently under construction. Ich bin das fenster._
 
 # Elite Dangerous Resources & Info
