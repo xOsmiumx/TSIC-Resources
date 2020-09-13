@@ -5,21 +5,21 @@ _This page is currently under construction. Ich bin das fenster._
 
 ## Tools & Utilities:
 
-**Inara.CZ**
-- [INARA](https://inara.cz/) the ultimate Elite Dangerous Companion, is a database covering a broad array of game features and information, 
+[**INARA**](https://inara.cz/)
+- Inara is the ultimate Elite Dangerous Companion, is a database covering a broad array of game features and information, 
 including commodity value data, location data, Community Goals, station outfutting inventories, GalNet reports, and player-submitted screenshots.
 
 
-**Coriolis.io**
-- [Coriolis](https://coriolis.io/) EDCD Edition is another ship outfitting tool with a layout inspired by the in-game Outfitting interface. 
+[**Coriolis**](https://coriolis.io/)
+- Coriolis EDCD Edition is another ship outfitting tool with a layout inspired by the in-game Outfitting interface. 
 Players can experiment with builds and keep track of their in-game builds.
 
 
-**EDDB.io**
-- [EDDB](https://eddb.io/) is a database that displays info about systems, stations, factions, commodities, bodies, and trading routes.
+[**EDDB**](https://eddb.io/)
+- EDDB is a database that displays info about systems, stations, factions, commodities, bodies, and trading routes.
 
 
-**Elite Outfitters**
-- [Elite Outfitters](https://www.reddit.com/r/eliteoutfitters/) is a Reddit community designed to assist CMDRs in getting feedback and help with their ship loadouts.
+[**Elite Outfitters**](https://www.reddit.com/r/eliteoutfitters/)
+- Elite Outfitters is a Reddit community designed to assist CMDRs in getting feedback and help with their ship loadouts.
 
 ---
